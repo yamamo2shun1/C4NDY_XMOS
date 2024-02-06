@@ -5,6 +5,6 @@ KiCad/C4NDY_XMOS/jlcpcb/gerber/
 
 KiCad/C4NDY_XMOS/jlcpcb/
 
-xC/app_hello_world/bin/
+bin/
 
-xC/app_hello_world/build/
+build/
