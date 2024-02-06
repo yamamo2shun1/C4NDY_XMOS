@@ -8,3 +8,5 @@ KiCad/C4NDY_XMOS/jlcpcb/
 bin/
 
 build/
+
+lib_*/
