@@ -1,6 +1,3 @@
 [submodule "lib_xassert"]
 	path = lib_xassert
 	url = https://github.com/xmos/lib_xassert
-[submodule "lib_i2c"]
-	path = lib_i2c
-	url = https://github.com/xmos/lib_i2c
